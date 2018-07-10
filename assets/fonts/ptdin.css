@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'PTDIN';
+  src: url('./PTDIN.eot?t=1524902427277');
+  src: url('./PTDIN.eot?t=1524902427277#iefix') format('embedded-opentype'),
+    url('./PTDIN.woff') format('woff'), url('./PTDIN.woff2') format('woff2'),
+    url('./PTDIN.ttf?t=1524902427277') format('truetype'),
+    url('./PTDIN.svg?t=1524902427277#iconfont') format('svg');
+}

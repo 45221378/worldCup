@@ -1,0 +1,49 @@
+@import "../../assets/styles/mixin";
+.fixedFooter{
+  height: 86px;
+  //position: absolute;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  .integral{
+    background: #FFF9CD;
+    padding: 0 15px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    span{
+      .fs(12px);
+      color: #FD3D3D;
+    }
+  }
+
+  .betFooter{
+    display: flex;
+    background: #fff;
+    height: 56px;
+    text-align: center;
+    align-items: center;
+    .betWin{
+      flex: 1;
+      .fs(14px);
+      color: #666;
+      em{
+        color: #FD3D3D;
+      }
+    }
+    .betBtn{
+      width: 150px;
+      height: 100%;
+      background: #FBE533;
+      color: #078B48;
+      padding: 0;
+      .fs(16px);
+      line-height: 56px;
+      &.disabledBtn{
+        background: #FFF49E;
+        color: rgba(7,139,72,.3);
+        opacity: 1!important;
+      }
+    }
+  }
+}

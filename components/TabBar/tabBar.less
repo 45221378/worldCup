@@ -1,0 +1,87 @@
+.component-tab{
+    background-color: #fff;
+    position: relative;
+    width: 375px;
+    z-index: 999;
+    // &:after{
+    //     content: '';
+    //     position: absolute;
+    //     bottom: 0;
+    //     left: 0;
+    //     right: 0;
+    //     display: inline-block;
+    //     height: 1px;
+    //     background-color: #dfdfdf;
+    // }
+    border-bottom: 1px solid #dfdfdf;
+    &-list{
+        display: flex;
+        color: #999;
+        align-items: center;
+        li{
+            display: inline-block;
+            width: 33.333333%;
+            text-align: center;
+            &.notBeginning,&.end{
+                i{
+                    color: #999!important;
+                }
+            }
+            a{
+                display: inline-block;
+                line-height: 100%;
+                font-size: 14px;
+                height: 100%;
+                width: 100%;
+                padding: 10px 0 12px;
+            }
+            span{
+                line-height: 20px;
+                width: 100%;
+                display: inline-block;
+            }
+            i{
+                font-size: 12px;
+                color: #21A14C;
+                opacity: 0.5;
+                
+            }
+            &.tab-active{
+                a {
+                    span{
+                        color: #333;
+                    }
+                    i{
+                        opacity: 1;
+                    }
+                }
+            }
+            &.tab-disabled{
+                a{
+                    pointer-events: none;
+                    i{
+                        color: #999;
+                    }
+                }
+            }
+        }
+    }
+    &-bar{
+        position: absolute;
+        display: inline-block;
+        height: 2px;
+        background-color: #21A14C;
+        width: 33.3333333%;
+        bottom: -1px;
+        transition: left .5s;
+        &.bar-left{
+            left: 0;
+        }
+        &.bar-center{
+            left: 33.333333%;
+        }
+        &.bar-right{
+            left: 66.6666666%;
+        }
+    }
+}

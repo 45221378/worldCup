@@ -1,0 +1,65 @@
+.component-tab {
+  background-color: #fff;
+  position: relative;
+  width: 100%;
+  z-index: 999;
+  border-bottom: 1px solid #dfdfdf;
+}
+.component-tab-list {
+  display: flex;
+  color: #999;
+  align-items: center;
+}
+.component-tab-list li {
+  display: inline-block;
+  width: 33.333333%;
+  text-align: center;
+}
+.component-tab-list li a {
+  display: inline-block;
+  line-height: 100%;
+  font-size: 14px;
+  height: 100%;
+  width: 100%;
+  padding: 10px 0 12px;
+}
+.component-tab-list li span {
+  line-height: 20px;
+  width: 100%;
+  display: inline-block;
+}
+.component-tab-list li i {
+  font-size: 12px;
+  color: #21a14c;
+  opacity: 0.5;
+}
+.component-tab-list li.tab-active a span {
+  color: #333;
+}
+.component-tab-list li.tab-active a i {
+  opacity: 1;
+}
+.component-tab-list li.tab-disabled a {
+  pointer-events: none;
+}
+.component-tab-list li.tab-disabled a i {
+  color: #999;
+}
+.component-tab-bar {
+  position: absolute;
+  display: inline-block;
+  height: 2px;
+  background-color: #21a14c;
+  width: 33.3333333%;
+  bottom: -1px;
+  transition: left 0.5s;
+}
+.component-tab-bar.bar-left {
+  left: 0;
+}
+.component-tab-bar.bar-center {
+  left: 33.333333%;
+}
+.component-tab-bar.bar-right {
+  left: 66.6666666%;
+}

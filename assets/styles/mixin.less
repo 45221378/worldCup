@@ -1,0 +1,187 @@
+//居中
+.m-center(){
+  margin-left: auto;
+  margin-right: auto;
+}
+.p-center(){
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+// 超出长度的文本显示省略号
+.truncate(){
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+//placeholder 颜色设置
+.placeholder(@color) {
+  &:-moz-placeholder {
+    color: @color;
+  }
+  &::-moz-placeholder {
+    color: @color;
+  }
+  &:-ms-input-placeholder {
+    color: @color;
+  }
+  &::-webkit-input-placeholder {
+    color: @color;
+  }
+}
+// 三角
+.triangle-down(@color:#ccc) {
+  width: 0;
+  height: 0;
+  border-width: 5px;
+  border-style: solid dashed dotted dashed;
+  border-color: @color transparent transparent transparent;
+  vertical-align: middle;
+  display: inline-block;
+}
+.triangle-left(@color:#ccc) {
+  width: 0;
+  height: 0;
+  border-width: 5px;
+  border-style: dashed solid dashed dotted;
+  border-color: transparent @color  transparent transparent;
+  vertical-align: middle;
+  display: inline-block;
+}
+.triangle-up(@color:#ccc) {
+  width: 0;
+  height: 0;
+  border-width: 5px;
+  border-style: dotted dashed solid dashed;
+  border-color: transparent  transparent @color;
+  vertical-align: middle;
+  display: inline-block;
+}
+.triangle-right(@color:#ccc) {
+  width: 0;
+  height: 0;
+  border-width: 5px;
+  border-style: dashed dotted dashed solid;
+  border-color: transparent  transparent transparent @color;
+  vertical-align: middle;
+  display: inline-block;
+}
+//margin
+.marL(@num) {
+  margin-left: @num;
+}
+
+.marR(@num) {
+  margin-right: @num;
+}
+
+.marT(@num) {
+  margin-top: @num;
+}
+
+.marB(@num) {
+  margin-bottom: @num;
+}
+
+.marTB(@num) {
+  margin: @num 0;
+}
+
+.marLR(@num) {
+  margin: 0 @num;
+}
+
+//padding
+.padL(@num) {
+  padding-left: @num;
+}
+
+.padR(@num) {
+  padding-right: @num;
+}
+
+.padT(@num) {
+  padding-top: @num;
+}
+
+.padB(@num) {
+  padding-bottom: @num;
+}
+
+.padTB(@num) {
+  padding: @num 0;
+}
+
+.padLR(@num) {
+  padding: 0 @num;
+}
+
+.pad(@num) {
+  padding: @num;
+}
+
+//边框border
+.theme-border(){
+  border: 1px solid @border-color;
+}
+.borB(@w:1px,@s:solid,@c:#dfdfdf) {
+  border-bottom: @arguments;
+}
+
+.borT(@w:1px,@s:solid,@c:#dfdfdf) {
+  border-top: @arguments;
+}
+
+.borL(@w:1px,@s:solid,@c:#dfdfdf) {
+  border-left: @arguments;
+}
+
+.borR(@w:1px,@s:solid,@c:#dfdfdf) {
+  border-right: @arguments
+}
+
+.borRB(@w:1px,@s:solid,@c:#dfdfdf) {
+  border-right: @arguments;
+  border-bottom: @arguments;
+}
+
+.borLT(@w:1px,@s:solid,@c:#dfdfdf) {
+  border-left: @arguments;
+  border-top: @arguments;
+}
+
+.bor(@w:1px,@s:solid,@c:#dfdfdf) {
+  border: @arguments;
+}
+
+//字体
+.fs(@font:28px) {
+  font-size: @font;
+}
+
+//行高
+.lineH(@lineH) {
+  line-height: @lineH;
+}
+//价格
+.price(){
+  color: #999;
+  strong{
+    font-size: 22px;
+    color: @price-color;
+    margin-left: 7px;
+    font-family: Helvetica,"PingFang SC", "STHeit", "Microsoft YaHei", Simsun, sans-self;
+  }
+}
+//超出行隐藏
+.line-clamp(@line:2){
+  display:-webkit-box ;
+  -webkit-line-clamp:@line;
+  /* autoprefixer: off */
+  -webkit-box-orient:vertical;
+  overflow: hidden;
+}
