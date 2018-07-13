@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9e792e1-f7d8-4fcb-8037-55e1b1b8bae3" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/PTDIN.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/PTDIN.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/PTDIN.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/PTDIN.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/PTDIN.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/iconfont.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/iconfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/iconfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/newyouth.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/newyouth.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/ptdin.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/20000yuan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/betSuc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/betSuc1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/betSuc2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/bg-top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/bg1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/bg2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/border.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/box.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/chen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/count-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/countryDefault.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/css_sprites.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/end-rank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/end-star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/footballman.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/footer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/getsuccess.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/group-worldCup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/group.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/hot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/instruction-header.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/iosInWx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/li-img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/li-img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/li-img3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/li-img4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/loginlogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/loginsuccess.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/modal-icon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/modal-rule-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/modal-rule-top.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/myInvite-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/myInvite-icon1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/myInvite-icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/myInvite-icon3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/noform.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/people.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/rank-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/rank-copper.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/rank-gold.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/rank-silver.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/redline.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/redpacket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/register-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/rule.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/score-none.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/shareBox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/shareModal-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/smallLogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/step.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/title.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/vs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/vs_done.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/yuan28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/zhang.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/styles/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/styles/global.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/styles/help.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/styles/index.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/styles/mixin.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/styles/usecontract.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/Banner/banner.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/Banner/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/BetFooter/betFooter.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/BetFooter/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/Button/button.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/Button/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/CountryPK/countryPK.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/CountryPK/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/Eliminate/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/Eliminate/item.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/Group/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/Group/item.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/NoticeScroll/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/NoticeScroll/noticeScroll.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/Outlet/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/Outlet/item.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/TabBar/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/TabBar/tabBar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/TabBar/tabBar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/models/cutdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/models/eliminate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/models/group.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/models/loading.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/models/loginHint.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/models/mobile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/models/outlet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/models/score.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/models/showBgImg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/models/urlInfo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/router.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/ActDetail/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/ActivityIndex/activityIndex.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/ActivityIndex/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/Bet/bet.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/Bet/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/BetSuc/betSuc.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/BetSuc/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/BorrowContract/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/DelegaContract/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/DownloadStep/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/EndRank/endRank.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/EndRank/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/Extension/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/Extension/login.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/Extension/loginSuccessHint.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/ExtensionInner/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/ExtensionInner/loginSuccessHint.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/Instruction/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/Instruction/instruction.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/Main/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/Main/main.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/MyInvite/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/MyInvite/myInvite.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/NewRule/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/NewRule/rule.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/PlayRule/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/RankList/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/RankList/rankList.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/ReAgreement/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/RegContract/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/Reqcontract/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/Score/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/Score/score.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/ShareIndex/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/Usecontract/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/utils/ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/utils/ajax2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/utils/appFun.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/utils/cache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/utils/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/utils/count.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/utils/sendForm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/utils/validate.js" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="世界杯活动结束页src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="世界杯活动结束页src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9e792e1-f7d8-4fcb-8037-55e1b1b8bae3" name="Default" comment="" />
+      <created>1531205947200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531205947200</updated>
+      <workItem from="1531205949189" duration="1061000" />
+      <workItem from="1531211124763" duration="6024000" />
+      <workItem from="1531218728099" duration="364000" />
+      <workItem from="1531462525622" duration="689000" />
+    </task>
+    <task id="LOCAL-00001" summary="删除endrank">
+      <created>1531206047416</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531206047416</updated>
+    </task>
+    <task id="LOCAL-00002" summary="mer">
+      <created>1531209163219</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1531209163219</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9547000" />
+  </component>
+  <component name="TodoView" selected-index="3" />
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="800" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18816067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32844576" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="删除endrank" />
+    <MESSAGE value="mer" />
+    <option name="LAST_COMMIT_MESSAGE" value="mer" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/routes/ExtensionInner/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5874">
+          <caret line="9" column="64" lean-forward="true" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/ExtensionInner/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/ajax2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="45" column="17" lean-forward="false" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
