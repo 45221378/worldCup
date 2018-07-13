@@ -1,3 +1,4 @@
+//尝试外网提交develop
 import React, { Component } from 'react';
 import { withRouter } from 'dva/router';
 import { TabBar } from '../../components';
@@ -26,6 +27,7 @@ ajax.interceptors.response.use(
     }
   },
   function(error) {
+    console.log(error);
     Toast.hide();
     const { response, request } = error;
     if (response) {
@@ -139,12 +141,12 @@ export default class EndRank extends Component {
             <section className="detail">
               <ul>
                 <li>
-                  <b>第一名</b>
+                  <b>第1名</b>
                   <span>iphoneX手机一部</span>
                 </li>
                 <li>
                   <b>第2-10名</b>
-                  <span>999元beast入耳式耳机</span>
+                  <span>999元beats入耳式耳机</span>
                 </li>
                 <li>
                   <b>第11-50名</b>
@@ -166,7 +168,7 @@ export default class EndRank extends Component {
             <section className="detail">
               <ul>
                 <li>
-                  <b>第一名</b>
+                  <b>第1名</b>
                   <span>6折减息券一张</span>
                 </li>
                 <li>
@@ -189,7 +191,7 @@ export default class EndRank extends Component {
             <section className="detail">
               <ul>
                 <li>
-                  <b>第一名</b>
+                  <b>第1名</b>
                   <span>2000元提额券+8折减息券一张</span>
                 </li>
                 <li>
@@ -207,7 +209,7 @@ export default class EndRank extends Component {
                 <li>
                   <p>
                     阳光普照奖 <br />
-                    <i>(所有参与的用户均可获奖）</i>
+                    <i>(所有参与活动的用户均可获得）</i>
                   </p>
                   <em>
                     无门槛48元减息券一张<br />2500-4400获得100元减息券一张<br />4500以上的获得200元减息券一张
@@ -360,6 +362,27 @@ export default class EndRank extends Component {
           this.setState({
             isLoading: false,
           });
+        })
+        .catch((error)=>{
+          this.setState({
+            rankInfo: [],
+          });
+          Toast.hide();
+          const { response, request } = error;
+          if (response) {
+            const {
+              data: { head },
+            } = response;
+            const { status } = request;
+
+            if (head) {
+              Toast.info(head.msg);
+            } else {
+              Toast.offline(`${status}:网络连接失败`);
+            }
+          } else {
+            Toast.offline(`网络连接失败`);
+          }
         });
     } else {
       Toast.hide();
@@ -453,25 +476,25 @@ export default class EndRank extends Component {
             <span>奖品细则</span>
           </h3>
           <p className="actDetail-word">
-            1，用户的优惠券为有效期90天，从到账之日起进行计算，逾期失效；
+            1、用户获得的优惠券有效期为90天，从到账之日起进行计算，逾期失效；
           </p>
           <p className="actDetail-word">
-            2，若积分相同，则通过借款金额大小进行排名，若借款金额大小也相同，则按照注册时间进行排名；
+            2、若积分相同，则通过借款金额大小进行排名，若借款金额大小也相同，则按照注册时间进行排名；
           </p>
           <p className="actDetail-word">
-            3，现金红包奖励在活动结束后需要用户添加"转转小助手"微信号统一发放；
+            3、现金红包奖励在活动结束后需要用户添加“转转小助手”微信号统一发放；
           </p>
           <p className="actDetail-word">
-            4，获得实物奖励在活动结束后15个工作日内给中奖用户发送中奖短信，需要用户回复签收地址，如无回复会有客服与您取得联系，如用户在一周内无任何反馈，视为放弃奖励；
+            4、获得的实物奖励在活动结束后的15个工作日内给中奖用户发送中奖短信，需要用户回复签收地址，如无回复会有客服与您取得联系，如用户在1周内无任何反馈，视为放弃奖励；
           </p>
           <h3 className="actDetail-tit actDetail-score magT33">
             <span>注意事项</span>
           </h3>
-          <p className="actDetail-word">1，用户获得的减息券，提额券可以通过"我的-我的卡券"查看；</p>
+          <p className="actDetail-word">1、用户获得的减息券、提额券可以通过“我的-我的卡券”查看；</p>
           <p className="actDetail-word">
-            2，活动期间发现严重违反及作弊行为，本平台有权取消其奖励；
+            2、活动期间发现严重违反及作弊行为，本平台有权取消其奖励；
           </p>
-          <p className="actDetail-word">3，本平台拥有法律允许范围内本活动的最终解释权；</p>
+          <p className="actDetail-word">3、本平台拥有在法律允许的范围内本活动的最终解释权；</p>
         </article>
       </section>
     );
